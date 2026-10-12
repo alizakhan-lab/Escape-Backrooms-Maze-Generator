@@ -1,6 +1,6 @@
 # Backrooms Maze Generator
 
-Procedural maze generation for **The Backrooms**, a first-person horror game where the player has to escape a randomly generated maze before a monster catches them. The game was built by a team at [HACKATHON NAME] (October 2026). This repo contains the part I wrote: the maze generator and the logic that places the player, the monster and the exit.
+Procedural maze generation for **The Backrooms**, a first-person horror game where the player has to escape a randomly generated maze before a monster catches them. The game was built by a team of 4 at the CodeRED Orion Hackathon (October 2026). This repo contains the part I wrote: the maze generator and the logic that places the player, the monster and the exit.
 
 ![Generated mazes of different sizes](docs/mazes.gif)
 
